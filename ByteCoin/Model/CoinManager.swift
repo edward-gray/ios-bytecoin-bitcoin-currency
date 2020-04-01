@@ -17,7 +17,7 @@ struct CoinManager {
     
     //MARK: - API INFO
     let baseURL = "https://rest.coinapi.io/v1/exchangerate/BTC"
-    let apiKey = "You can api key From https://docs.coinapi.io/"
+    let apiKey = "You can get api key From https://docs.coinapi.io/"
     
     //MARK: - Variables
     let currencyArray =
